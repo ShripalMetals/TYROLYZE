@@ -11,7 +11,7 @@ const ComingSoon = () => {
       </div>
       <div className="right-section">
       <div className="right-section">
-        <h2>TYROLYZE</h2>
+        <h2>E-TYRE</h2>
         <p>A Tyre Recycle Platform</p>
         <h1>Coming Soon...</h1>
       </div>

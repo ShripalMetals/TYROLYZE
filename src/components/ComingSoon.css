@@ -40,7 +40,7 @@
 .right-section h2 {
   line-height: 0.5;
   font-family: times;
-  font-size: 3rem;
+  font-size: 4rem;
   font-weight: 700;
   margin-bottom: 1px;
   color: #388e3c;
@@ -55,7 +55,7 @@
 }
 
 .right-section h1 {
-  font-size: 4rem;
+  font-size: 3.5rem;
   color: #43a047;
   font-weight: 800;
 }
