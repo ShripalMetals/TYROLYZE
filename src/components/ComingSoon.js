@@ -8,8 +8,13 @@ const ComingSoon = () => {
         <div className="logo1">
           <img src="/image/Tyre.jpg" alt="Tyrolyze Logo" className="logo-img" />
         </div>
-        <h2 className="logo12"><b>Tyrolyze</b></h2>
-        <h1 className="logo12">Coming Soon...</h1>
+      </div>
+      <div className="right-section">
+      <div className="right-section">
+        <h2>TYROLYZE</h2>
+        <p>A Tyre Recycle Platform</p>
+        <h1>Coming Soon...</h1>
+      </div>
       </div>
     </div>
   );
